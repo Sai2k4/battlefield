@@ -88,8 +88,3 @@ Below is a preview of the application:
 ## Credits
 - Background Image: Designed for this project.
 - UI Inspiration: Battlefield 4.
-
----
-
-## License
-This project is licensed under the MIT License.
