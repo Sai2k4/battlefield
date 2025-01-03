@@ -16,11 +16,6 @@ This project is a recreation of the Battlefield 4 Server Info Page using React.j
 ## Screenshot
 
 Below is a preview of the application:
-
-### Full Page
-![Battlefield 4 Server Info Page](./assets/images/server-info-full.png)
-
-### Table View
 <img src="src/Screenshot (197).png" alt="Server Info Table View" width="600">
 
 ---
