@@ -21,7 +21,7 @@ Below is a preview of the application:
 ![Battlefield 4 Server Info Page](./assets/images/server-info-full.png)
 
 ### Table View
-<img src="./assets/images/server-info-table.png" alt="Server Info Table View" width="600">
+<img src="src/Screenshot (197).png" alt="Server Info Table View" width="600">
 
 ---
 
